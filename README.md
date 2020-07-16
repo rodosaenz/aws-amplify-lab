@@ -10,5 +10,5 @@ Reference 2 [Angular Authentication with AWS Cognito and Amplify](https://morioh
 Run `npm install` to generate resources.
 Run `ng start -o` or `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-![Amplify UI](https://d2908q01vomqb2.cloudfront.net/0a57cb53ba59c46fc4b692527a38a87c78d84028/2019/09/30/authcra.gif)
+![Amplify UI](https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2020/04/How-to-Embed-Amplify-Framework-UI-Component_003.png)
 
